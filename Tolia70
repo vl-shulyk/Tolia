@@ -1,0 +1,4 @@
+<h1 class="epydoc">Module defs</h1><p class="nomargin-top"><span class="codelink"><a href="lxml.html.defs-pysrc.html">source&nbsp;code</a></span></p>
+        <a href="lxml.html.defs-module.html#empty_tags" class="summary-name">empty_tags</a> = <code title="frozenset(['area',
+           'base',
+           'basefont',
